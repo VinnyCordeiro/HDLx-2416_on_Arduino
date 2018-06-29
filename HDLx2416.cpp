@@ -9,7 +9,7 @@
 /*
   Usually you will want to connect Chip_enable_1, Chip_enable_2 and Write in the same pin, for simplicity.
 */
-#include "WProgram.h"
+#include "Arduino.h"
 #include "HDLx2416.h"
 #include <inttypes.h>
 
