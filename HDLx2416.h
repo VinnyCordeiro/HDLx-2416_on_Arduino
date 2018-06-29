@@ -10,7 +10,7 @@
 #ifndef HDLx2416_h
 #define HDLx2416_h
 
-#include "WProgram.h"
+#include "Arduino.h"
 #include <inttypes.h>
 
 /*
